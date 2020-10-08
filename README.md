@@ -1,1 +1,1 @@
-# Lista-de-Exerc-cios-2
+Sistema operacional foi o Windows e os codigos foram feitos em python, logo necessita ter instalado em seu computador.
